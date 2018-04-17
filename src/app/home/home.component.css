@@ -1,0 +1,28 @@
+.header-color{
+  background-color: black;
+
+}
+.header-text-color{
+  color: white;
+  padding-right: 10px;
+}
+
+
+.data{
+  text-align: center;
+  font-size: 50px;
+}
+mat-card-content{
+  background-image: url("./images/backgroundimg.jpeg");
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size:1375px;
+}
+h1 {
+  color: white;
+  padding-left: 50px;
+}
+h2{
+  padding-top: 400px;
+  color:red
+}

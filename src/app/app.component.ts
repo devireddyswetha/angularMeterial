@@ -6,5 +6,5 @@ import {Component} from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'CSS Template';
+  title = 'CSS3 & HTML5 Template';
 }
